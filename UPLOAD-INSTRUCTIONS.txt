@@ -4,9 +4,11 @@ Upload these four files directly to the main area of your GitHub repository:
 
 1. index.html
 2. pixelugc-logo.webp
-3. pixelugc-model.webp
+3. pixelugc-loop.mp4
 4. UPLOAD-INSTRUCTIONS.txt
 
-Do not create any folders.
+Do not create any folders. Keep every filename unchanged.
 
 After uploading, open Settings > Pages. Choose "Deploy from a branch", select the main branch and / (root), then save.
+
+The MP4 is muted, autoplaying and continuously looping like a GIF, but is much smaller and sharper than an actual GIF.
